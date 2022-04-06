@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-05T21:00:08 IST" name="Default suite" finished-at="2022-04-05T21:03:17 IST" duration-ms="188667">
+    <groups>
+    </groups>
+    <test started-at="2022-04-05T21:00:08 IST" name="Default test" finished-at="2022-04-05T21:03:17 IST" duration-ms="188667">
+      <class name="TestCases.SampleExtentreport">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:00:08 IST" name="setExtent" finished-at="2022-04-05T21:00:08 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:00:08 IST" name="setUp" finished-at="2022-04-05T21:00:30 IST" duration-ms="21390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin1()[pri:1, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:00:30 IST" name="verifyLogin1" finished-at="2022-04-05T21:00:38 IST" duration-ms="8643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:00:39 IST" name="tearDown" finished-at="2022-04-05T21:00:43 IST" duration-ms="4754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:00:43 IST" name="setUp" finished-at="2022-04-05T21:00:47 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin2()[pri:2, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:00:47 IST" name="verifyLogin2" finished-at="2022-04-05T21:01:01 IST" duration-ms="14152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:01 IST" name="tearDown" finished-at="2022-04-05T21:01:03 IST" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:03 IST" name="setUp" finished-at="2022-04-05T21:01:05 IST" duration-ms="2429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyerror1()[pri:3, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:05 IST" name="verifyerror1" finished-at="2022-04-05T21:01:13 IST" duration-ms="8128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyerror1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:13 IST" name="tearDown" finished-at="2022-04-05T21:01:14 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:14 IST" name="setUp" finished-at="2022-04-05T21:01:17 IST" duration-ms="3558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyerror2()[pri:4, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:17 IST" name="verifyerror2" finished-at="2022-04-05T21:01:24 IST" duration-ms="6642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyerror2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:24 IST" name="tearDown" finished-at="2022-04-05T21:01:25 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:25 IST" name="setUp" finished-at="2022-04-05T21:01:29 IST" duration-ms="3960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyerror3()[pri:5, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:29 IST" name="verifyerror3" finished-at="2022-04-05T21:01:36 IST" duration-ms="7182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyerror3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:36 IST" name="tearDown" finished-at="2022-04-05T21:01:36 IST" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:36 IST" name="setUp" finished-at="2022-04-05T21:01:41 IST" duration-ms="5058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsPage1()[pri:6, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:41 IST" name="verifyProductsPage1" finished-at="2022-04-05T21:01:49 IST" duration-ms="7417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPage1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:49 IST" name="tearDown" finished-at="2022-04-05T21:01:49 IST" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:49 IST" name="setUp" finished-at="2022-04-05T21:01:57 IST" duration-ms="7101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsPage2()[pri:7, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:01:57 IST" name="verifyProductsPage2" finished-at="2022-04-05T21:02:05 IST" duration-ms="8069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPage2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:05 IST" name="tearDown" finished-at="2022-04-05T21:02:05 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:05 IST" name="setUp" finished-at="2022-04-05T21:02:08 IST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsPage3()[pri:8, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:08 IST" name="verifyProductsPage3" finished-at="2022-04-05T21:02:12 IST" duration-ms="4072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPage3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:12 IST" name="tearDown" finished-at="2022-04-05T21:02:12 IST" duration-ms="567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:12 IST" name="setUp" finished-at="2022-04-05T21:02:15 IST" duration-ms="2629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsPage4()[pri:9, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:15 IST" name="verifyProductsPage4" finished-at="2022-04-05T21:02:22 IST" duration-ms="6836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPage4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:22 IST" name="tearDown" finished-at="2022-04-05T21:02:22 IST" duration-ms="484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:22 IST" name="setUp" finished-at="2022-04-05T21:02:25 IST" duration-ms="2576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsPage5()[pri:10, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:25 IST" name="verifyProductsPage5" finished-at="2022-04-05T21:02:35 IST" duration-ms="9963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPage5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:35 IST" name="tearDown" finished-at="2022-04-05T21:02:35 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:35 IST" name="setUp" finished-at="2022-04-05T21:02:39 IST" duration-ms="3902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyProductsPage6()[pri:11, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:39 IST" name="verifyProductsPage6" finished-at="2022-04-05T21:02:47 IST" duration-ms="8485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductsPage6 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:47 IST" name="tearDown" finished-at="2022-04-05T21:02:48 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:48 IST" name="setUp" finished-at="2022-04-05T21:02:51 IST" duration-ms="3089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckoutPage1()[pri:12, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:02:51 IST" name="verifyCheckoutPage1" finished-at="2022-04-05T21:03:02 IST" duration-ms="11429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutPage1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:03:02 IST" name="tearDown" finished-at="2022-04-05T21:03:03 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:03:03 IST" name="setUp" finished-at="2022-04-05T21:03:06 IST" duration-ms="2623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyCheckoutPage2()[pri:13, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:03:06 IST" name="verifyCheckoutPage2" finished-at="2022-04-05T21:03:15 IST" duration-ms="9525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutPage2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:03:15 IST" name="tearDown" finished-at="2022-04-05T21:03:16 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:TestCases.SampleExtentreport@7d4f9aae]" started-at="2022-04-05T21:03:16 IST" name="endReport" finished-at="2022-04-05T21:03:17 IST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- TestCases.SampleExtentreport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
